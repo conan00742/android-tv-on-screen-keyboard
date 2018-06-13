@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SoftKeyboardForTV</string>
+    <string name="delete_pad">DELETE</string>
+    <string name="clear_pad">CLEAR</string>
+    <string name="number_pads">&amp;123</string>
+    <string name="character_pads">ABC</string>
+</resources>

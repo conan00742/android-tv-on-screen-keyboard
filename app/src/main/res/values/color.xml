@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toast_error">#F44336</color>
+    <color name="toast_info">#43A047</color>
+    <color name="toast_success">#0288D1</color>
+    <color name="toast_warning">#FFC107</color>
+    <color name="act_background_solid">#dddddd</color>
+    <color name="status_bar_color">#bdbdbd</color>
+    <color name="act_background_black_alpha">#cc000000</color>
+    <color name="red">#ff0000</color>
+    <color name="white">#f7f7f7</color>
+    <color name="act_background">#efefef</color>
+    <color name="yellow">#ffff00</color>
+    <color name="background_solid_color">#f2e5e5e5</color>
+    <color name="pure_white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="light_dark">#808080</color>
+    <color name="item_bg">#01070d</color>
+    <color name="green_69e602">#69e602</color>
+    <color name="green">#84b82a</color>
+    <color name="blue">#00BBFA</color>
+    <color name="blue_zalo">#0f8ee0</color>
+    <color name="tv_update_selector">#40ffffff</color>
+    <color name="blue_pressed">#0c71b3</color>
+    <color name="grey">#747480</color>
+    <color name="gray_bgdd">#6d6d6d</color>
+    <color name="transparent">#00000000</color>
+    <color name="list_bg_pressed">#80000000</color>
+    <color name="list_separator">#dedede</color>
+    <color name="menu_bg">#313332</color>
+    <color name="menu_text">#c2c3be</color>
+    <color name="menu_text_notclickable">#d2c3be</color>
+    <color name="menu_active_bg">#3b3d3c</color>
+    <color name="title_bold">#333333</color>
+    <color name="content_normal">#737373</color>
+    <color name="gray">#e5e5e5</color>
+    <color name="gray_bg">#e6e6e6</color>
+    <color name="green_pressed">#9984b82a</color>
+    <color name="disable">#dfdfdf</color>
+    <color name="text_hint">#B3B3B3</color>
+    <color name="dialog_text">#737373</color>
+    <color name="setting_header">#cccccc</color>
+    <color name="setting_header_divider">#cccccc</color>
+    <color name="setting_divider">#e5e5e5</color>
+    <color name="setting_text_header">#000000</color>
+    <color name="setting_text">#555555</color>
+    <color name="setting_text_header_disable">#BFBFBF</color>
+    <color name="setting_text_disable">#CCCCCC</color>
+    <color name="video_overlay">#90000000</color>
+    <color name="video_overlay_center">#50000000</color>
+    <color name="dropdown_seperator">#3A3A3A</color>
+    <color name="white_with_alpha10">#1AFFFFFF</color>
+    <color name="positive_dialog_button_color">#F2009688</color>
+
+    <color name="abs__background_holo_dark">#ff000000</color>
+    <color name="abs__background_holo_light">#fff3f3f3</color>
+    <color name="abs__bright_foreground_holo_dark">@color/abs__background_holo_light</color>
+    <color name="abs__bright_foreground_holo_light">@color/abs__background_holo_dark</color>
+    <color name="abs__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="abs__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+
+    <color name="icon_unselected">#b3ffffff</color>
+    <color name="icon_selected">#000000</color>
+    <color name="left_menu_unselected">#4d4c48</color>
+    <color name="soft_opaque">#90000000</color>
+    <color name="black_opaque">#AA000000</color>
+    <color name="orange_transparent">#AAFADCA7</color>
+    <color name="orange">#FADCA7</color>
+    <color name="casting_media_control_bg">#2c393d</color>
+    <color name="notification_seperator">#8A8A8A</color>
+
+    <!--<color name="color_primary">#519C13</color>-->
+    <color name="color_primary">@color/activity_light_bg</color>
+    <color name="color_primary_alpha">#519C13</color>
+    <color name="color_primary_dark">@color/main_black</color>
+    <!--<color name="color_accent">#ffffff</color>-->
+    <color name="color_accent">@color/green_highlight</color>
+    <color name="color_primary_dark_opaque">#aa5a8e22</color>
+    <color name="bg_video_queue">#2b2b2b</color>
+
+    <color name="color_ripple_white">#1Affffff</color>
+    <color name="color_ripple">#30000000</color>
+    <color name="dialog_volume_bg">#282828</color>
+    <color name="sub_title_bg">#CC000000</color>
+    <color name="sub_title_color">#ffffff</color>
+
+    <!--color for v3-->
+    <color name="subscription_divider">#f7f7f7</color>
+    <color name="main_divider">#dfdfdf</color>
+    <color name="main_title">#252525</color>
+    <color name="main_header">#1e3b5b</color>
+    <color name="activity_light_bg">#f7f7f7</color>
+    <color name="activity_dark_bg">#070707</color>
+    <color name="main_item_bg">#ffffff</color>
+    <color name="green_highlight">#1dc122</color>
+    <color name="green_btn_login">#65ba00</color>
+    <color name="green_selector">#468200</color>
+    <color name="main_black">#333333</color>
+    <color name="text_white">#f7f7f7</color>
+    <color name="swipe_bg">#0B8043</color>
+    <color name="action_mode_bg">#EEEEEE</color>
+    <color name="subs_item_pressed">#E5E5E5</color>
+    <!--description-->
+    <color name="gray_88888b">#88888b</color>
+    <!--bg color & white text-->
+    <color name="white_f7f7f7">#f7f7f7</color>
+    <!--almost text & icon-->
+    <color name="black_333333">#333333</color>
+    <!--highlight text-->
+    <color name="green_1dc122">#1dc122</color>
+    <!--program & movie corner-->
+    <color name="blue_07274a">#07274a</color>
+    <!--warning text-->
+    <color name="red_f85a5a">#f85a5a</color>
+    <!--line-->
+    <color name="left_menu_background_color">#f2e5e5e5</color>
+    <color name="gray_dfdfdf">#dfdfdf</color>
+    <color name="highlight_color">#66f7f7f7</color>
+    <color name="chart_1">#1DC122</color>
+    <color name="chart_2">#1DC174</color>
+    <color name="chart_3">#8EE0B9</color>
+    <color name="cover_overlay_bold">#CC000000</color>
+    <color name="overlay_bold">#99000000</color>
+    <color name="overlay_center">#50000000</color>
+    <color name="black_with_alpha_10">#1A000000</color>
+    <color name="black_with_alpha_15">#2c000000</color>
+    <color name="black_with_alpha_30">#4d000000</color>
+    <color name="series_item_shadow_color">#d8d8d8</color>
+    <color name="chart_free">#d3d4d8</color>
+    <color name="chart_download">#1dc122</color>
+    <color name="chart_other">#89909a</color>
+    <color name="banner_grid">#e2e7ed</color>
+    <color name="top1_chart">#ff779c</color>
+    <color name="top2_chart">#85c0eb</color>
+    <color name="top3_chart">#91e6b2</color>
+    <color name="top_chart">#f4f4f4</color>
+    <color name="top_chart_text">#6d6d6d</color>
+    <color name="header_color">#474747</color>
+    <color name="subtitle_color">#6d6d6d</color>
+    <color name="tablayout_selected_text">#1dc202</color>
+
+</resources>
